@@ -1,6 +1,7 @@
-Overview
+HR Analytics Dashboard
+Overview:
 I recently worked on an HR Analytics Dashboard, designed to help HR teams and management make better decisions by identifying employee attrition trends and workforce patterns.
-Key Highlights
+Key Highlights:
 1.	General Workforce Overview:
 o	Total Employees: 1,470
 o	Attrition Count: 237 employees
@@ -20,8 +21,7 @@ o	The majority of attrition (163) occurs among employees earning up to 5K, indic
 o	Certain roles, such as Laboratory Technician (62), Sales Executive (57), and Research Scientist (47), experience higher attrition rates.
 7.	Attrition by Year at Company:
 o	Attrition peaks in the first year (58) and decreases significantly after 5 years of tenure, highlighting the need for better onboarding and early engagement strategies.
-Recommendations
-1.	Focus on Employee Retention:
+Recommendations Focus on Employee Retention:
 o	Tailor retention strategies for high-risk groups, such as employees aged 26–35 and those in lower salary brackets.
 o	Conduct exit interviews to understand why specific roles and education groups have higher attrition.
 2.	Compensation Analysis:
