@@ -1,4 +1,3 @@
-
 HR Analytics Dashboard
 Overview:
 I recently worked on an HR Analytics Dashboard, designed to help HR teams and management make better decisions by identifying employee attrition trends and workforce patterns.
